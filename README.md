@@ -1,76 +1,136 @@
 # [Project Name] 🎯
-
+Duty leave portal
 
 ## Basic Details
 ### Team Name: [Name]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1:Jyothi Maria - [sahrdaya college of engineering and technology
+- Member 2:Joshna Jojo - sahrdaya college of engineering and technology
+- Member 3: Mariya KB - sahrdaya college of engineering and technology
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://jyothi-4002.github.io/Duty-leave-portal/
 
 ### Project Description
-[2-3 lines about what your project does]
+Managing student leave requests manually can be time-consuming and prone to errors. Students often face difficulties in tracking the status of their leave requests, and administrators struggle with organizing and approving these requests efficiently. Our Duty Leave Management System aims to streamline this process by providing an easy-to-use platform for students to request leave and for administrators to manage and approve these requests.
+
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+The manual process of managing student leave requests is inefficient and error-prone. Students have difficulty tracking the status of their leave requests, leading to confusion and delays. Administrators and faculty members face challenges in organizing, reviewing, and approving these requests in a timely manner. This often results in miscommunication and administrative overhead.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+
+Our Duty Leave Management System provides a centralized platform where students can easily submit leave requests and track their status. Administrators and faculty can efficiently manage and approve these requests through role-based dashboards, reducing administrative overhead and improving communication
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Java Script
+- React
+- Firebase
+  React Router
+  Tailwind css
+- Create React app
+  Firebase Console
+  Visual Studio Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Computer or Laptop
+- Internet Connection
+-  Operating System: Windows, macOS, or Linux
+
+- Node.js (for running the development server)
+- npm (Node Package Manager)
+- Git (for version control)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+To set up the project locally, run the following commands:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/dutyleave.git
+
+# Navigate to the project directory
+cd dutyleave
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
 
 # Run
-[commands]
+npm start
+npm run
+npm run buikld
+npm run eject
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![100](https://github.com/user-attachments/assets/cf6693aa-3325-4daa-95c8-6c98a375f343)
+![102](https://github.com/user-attachments/assets/506366c1-a23d-41ed-b78c-187e7b85ed88)
+![103](https://github.com/user-attachments/assets/1b8d6ab4-27cf-4739-b2b4-a16f529b4f87)
+![104](https://github.com/user-attachments/assets/4549b2dc-1a1b-4911-8da1-c530d62ea059)
+![105](https://github.com/user-attachments/assets/9d08e00c-f0d3-4f82-abbc-a424ad26c5ad)
+![106](https://github.com/user-attachments/assets/6c4bee4d-041a-46db-9b35-8a79ea2eaf09)
+![107](https://github.com/user-attachments/assets/8ba2ec4e-087a-459c-bec0-576e804a55be)
+![108](https://github.com/user-attachments/assets/1554cc08-1b2a-4146-b685-78cba6fdb7cd)
+![109](https://github.com/user-attachments/assets/e031e5d5-a751-4bf5-95fa-675789d128ff)
+![110](https://github.com/user-attachments/assets/19feeeb0-52e7-4493-84dd-244d38c3dfe8)
+![111](https://github.com/user-attachments/assets/50fbb258-e0e7-4e97-9418-07b4051d5093)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
++---------------------+
+|  User Interface     |
+|  (React Components) |
++---------------------+
+          |
+          v
++---------------------+
+|  App Component      |
+|  - Handles routing  |
+|  - Manages state    |
++---------------------+
+          |
+          v
++---------------------+
+|  Form Component     |
+|  - User submits     |
+|    request          |
++---------------------+
+          |
+          v
++---------------------+
+|  Requests Component |
+|  - Displays approved|
+|    and denied lists |
+|  - Approve/Deny     |
+|    buttons          |
++---------------------+
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![61](https://github.com/user-attachments/assets/28e2df34-b85a-426f-bbe2-78c643869e39)
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+![62](https://github.com/user-attachments/assets/a9d11d51-0930-400b-b989-0c32899c843a)
+
 
 
 ![Components](Add photo of your components here)
@@ -91,9 +151,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Jyothi Maria: backend
+- mariya kb: front end
+- joshna jojo: styling
 
 ---
 Made with ❤️ at TinkerHub
